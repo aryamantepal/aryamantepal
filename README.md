@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryaman Tepal</h1>
 <h3 align="center">An aspiring Research Scientist from India</h3>
 
-- 🔭 I’m currently working on **Research in OSS & Computational Chemistry**
+- 🔭 I’m currently working on **Research in Open-source Software (OSS) & Computational Chemistry**
 
 - 🌱 I’m currently learning **computational fluid dynamics**
 
-- 👯 I’m looking to collaborate on **any research collaborations!**
+- 👯 I’m looking to collaborate on **any research ideas!**
 
 - 💬 Ask me about **react, pytorch & c++**
 
