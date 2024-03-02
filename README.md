@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **atepal@umass.edu**
 
-<h3 align="left">Connect with me on LinkedIn:</h3>
-<a href="https://www.linkedin.com/in/aryaman-tepal-1b8690203/">Aryaman Tepal's LinkedIn Profile</a>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/aryaman-tepal-1b8690203/">LinkedIn</a>!</h3>
+
 <p align="left">
 </p>
 
