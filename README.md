@@ -12,7 +12,7 @@
 - 📫 How to reach me **atepal@umass.edu**
 
 <h3 align="left">Connect with me:</h3>
-<a> https://www.linkedin.com/in/aryaman-tepal-1b8690203/ </a>a>
+<a> https://www.linkedin.com/in/aryaman-tepal-1b8690203/ </a>
 <p align="left">
 </p>
 
