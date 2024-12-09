@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **building projects!**
 
-- 💬 Ask me about **my cv research, pytorch & my dog**
+- 💬 Ask me about **my work at salesforce, all of my research and my dog!**
 
 - 📫 How to reach me **atepal@umass.edu**
 
