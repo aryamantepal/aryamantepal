@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryaman Tepal</h1>
 <h3 align="center">Studying Honors CS + Applied Math at UMass Amherst</h3>
 
-- 🔭 I’m currently working on **SaaS for Customer Sentiment with Salesforce!**
+- 🔭 I’m currently researching deep learning and remote sensing methods on sun-induced fluorescence!
 
-- 🌱 I’m currently learning **Time series, Fourier analysis**
+- 🌱 I’m currently learning low-level programming - c / c++ & arduino.
 
-- 👯 I’m looking to collaborate on **building projects!**
+- 👯 I’m looking to collaborate on anything -- feel free to reach out!
 
-- 💬 Ask me about **my work at salesforce, all of my research and my dog!**
+- 💬 Ask me about my favorite pokemon :)
 
 - 📫 How to reach me **atepal@umass.edu**
 
