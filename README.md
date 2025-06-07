@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently researching deep learning and remote sensing methods on sun-induced fluorescence!
 
-- 🌱 I’m currently learning low-level programming - c / c++ & arduino.
+- 🌱 I’m also working as a swe intern @ sciquel.
 
-- 👯 I’m looking to collaborate on anything -- feel free to reach out!
+- 👯 I’m looking to collaborate on projects in computer vision and full-stack development!
 
 - 💬 Ask me about my favorite pokemon :)
 
