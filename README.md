@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryaman Tepal</h1>
 <h3 align="center">Studying Honors CS + Applied Math at UMass Amherst</h3>
 
-- 🔭 I’m currently researching deep learning and remote sensing methods on sun-induced fluorescence!
+- 🔭 I’m currently researching deep learning and remote sensing methods on sun-induced fluorescence (retrieval) in Germany!
 
 - 🌱 I’m also working as a swe intern @ sciquel.
 
-- 👯 I’m looking to collaborate on projects in computer vision and full-stack development!
+- 👯 I’m looking to collaborate on projects in (applied) computer vision and deep learning! That said, I have way too many interests, so I'm honestly open to anything!
 
 - 💬 Ask me about my favorite pokemon :)
 
