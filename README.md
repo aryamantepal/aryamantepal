@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on projects in (applied) computer vision and deep learning! That said, I have way too many interests, so I'm honestly open to anything!
 
-- 💬 Ask me about my favorite pokemon :)
+- 💬 Ask me about my time in Europe! I was fortunate to visit most of the Netherlands, some of Brussels, a bit of France & Switzerland AND Prague! And I was living in Germany during this time :)
 
 - 📫 How to reach me **atepal@umass.edu**
 
