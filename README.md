@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aryaman Tepal</h1>
-<h3 align="center">Studying Honors CS + Applied Math at UMass Amherst</h3>
+<h3 align="center">Honors CS + Applied Math @ UMass Amherst | Soccer, Travel & Deep Learning Enthusiast</h3>
 
-- 🔭 I’m currently researching deep learning and remote sensing methods on sun-induced fluorescence (retrieval) in Germany!
-
-- 🌱 I’m also working as a swe intern @ sciquel.
-
-- 👯 I’m looking to collaborate on projects in (applied) computer vision and deep learning! That said, I have way too many interests, so I'm honestly open to anything!
-
-- 💬 Ask me about my time in Europe! I was fortunate to visit most of the Netherlands, some of Brussels, a bit of France & Switzerland AND Prague! And I was living in Germany during this time :)
-
-- 📫 How to reach me **atepal@umass.edu**
+- 🔭 Currently diving into embedded systems & deep learning with CRISM (aka Mars data 🤯)  
+- 🌱 SWE Intern @ SciQuel — learning, building, and occasionally breaking things  
+- 👯 Always up for collabs in computer vision, deep learning, or basically anything that sounds fun  
+- ⚽ Huge soccer fan — I play whenever I can and follow games obsessively  
+- ✈️ Travel junkie: lived in Germany, explored the Netherlands, Brussels, France, Switzerland & Prague — ask me for tips!  
+- 📫 Reach me at **atepal@umass.edu**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
