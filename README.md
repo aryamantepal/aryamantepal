@@ -7,7 +7,6 @@ I like building things that sit at the intersection of <b>systems, ML, and the r
 
 - 🧠 Currently exploring **machine learning for CFD**, embedded systems, and how to scale models with real infrastructure  
 - 🚀 SWE Intern @ **SciQuel** — shipping features, learning fast, and breaking prod (responsibly)  
-- 🔬 Previously worked with **CRISM Mars hyperspectral data** and other research-heavy projects  
 - 📬 Reach me at **atepal@umass.edu**
 
 <h3 align="left">Find me online</h3>
