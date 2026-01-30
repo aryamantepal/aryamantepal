@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Aryaman</h1>
-<h3 align="center">Junior CS + Applied Math @ UMass Amherst</h3>
+<h3 align="center">CS + Applied Math @ UMass Amherst</h3>
 
 <p align="center">
 I like building things that sit at the intersection of <b>systems, ML, and the real world</b>.
