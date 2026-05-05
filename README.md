@@ -6,7 +6,7 @@ I build AI agents and systems that connect machine learning with real world appl
 </p>
 
 * 🧠 Exploring AI agents, ML systems, and scalable infrastructure
-* 🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
+* 🌐 Website: [https://aryamantepal.com](https://aryamantepal.com)
 * 📬 [atepal@umass.edu](mailto:atepal@umass.edu)
 
 <h3 align="left">Find me online</h3>
