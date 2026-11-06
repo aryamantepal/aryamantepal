@@ -6,10 +6,10 @@
   <sub>Drawn by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </p>
 
-Senior in Computer Science and Applied Mathematics at UMass Amherst, graduating May 2027. I build coding agents and the evals that check them.
+I am a senior in Computer Science and Applied Mathematics at UMass Amherst, graduating May 2027.
 
-At the [Linot Lab](https://linotlab.github.io): ML to predict fluid velocity fields from streaklines. Summer 2026 at EdgeScale AI: agent infrastructure, coding agents, and code reviewers.
+At the [Linot Lab](https://linotlab.github.io), I am developing algorithms to predict fluid velocity fields from streaklines. I spent summer 2026 at EdgeScale AI.
 
-Currently building [Pokémon Stockfish Arena](https://arena.aryamantepal.com).
+I'm currently working on building agents in long-horizon planning through competitive battling and RPG speedrunning in [Pokémon](https://arena.aryamantepal.com).
 
 [aryamantepal.com](https://aryamantepal.com) · [X @aryamantepal](https://x.com/aryamantepal) · [LinkedIn](https://www.linkedin.com/in/aryamantepal/) · [atepal@umass.edu](mailto:atepal@umass.edu)
