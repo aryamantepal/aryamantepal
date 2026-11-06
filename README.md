@@ -8,7 +8,7 @@
 
 I am a senior in Computer Science and Applied Mathematics at UMass Amherst, graduating May 2027.
 
-At the [Linot Lab](https://linotlab.github.io), I am developing algorithms to predict fluid velocity fields from streaklines. I spent summer 2026 at EdgeScale AI.
+At the [Linot Lab](https://linotlab.github.io), I am developing algorithms to predict fluid velocity fields from streaklines. I spent summer 2026 at Edgescale AI.
 
 I'm currently working on building agents in long-horizon planning through competitive battling and RPG speedrunning in [Pokémon](https://arena.aryamantepal.com).
 
