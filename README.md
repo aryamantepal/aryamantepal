@@ -1,17 +1,15 @@
-<h1 align="center">Hey 👋 I'm Aryaman</h1>
-<h3 align="center">CS + Math @ UMass Amherst</h3>
+<h1 align="center">Aryaman Tepal</h1>
 
 <p align="center">
-I build AI agents and systems that connect machine learning with real world applications.
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+  <br />
+  <sub>Drawn by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </p>
 
-* 🧠 Exploring AI agents, ML systems, and scalable infrastructure
-* 🌐 Website: [https://aryamantepal.com](https://aryamantepal.com)
-* 📬 [atepal@umass.edu](mailto:atepal@umass.edu)
+I am a senior in Computer Science and Applied Mathematics at UMass Amherst, graduating May 2027.
 
-<h3 align="left">Find me online</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryamantepal/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+At the [Linot Lab](https://linotlab.github.io), I am developing algorithms to predict fluid velocity fields from streaklines. I spent summer 2026 at Edgescale AI.
+
+I'm currently working on building agents in long-horizon planning through competitive battling and RPG speedrunning in [Pokémon](https://arena.aryamantepal.com).
+
+[aryamantepal.com](https://aryamantepal.com) · [X @aryamantepal](https://x.com/aryamantepal) · [LinkedIn](https://www.linkedin.com/in/aryamantepal/) · [atepal@umass.edu](mailto:atepal@umass.edu)
