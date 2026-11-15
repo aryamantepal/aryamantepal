@@ -1,10 +1,12 @@
 <h1 align="center">Aryaman Tepal</h1>
 
+<!-- git-critters:start -->
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+  <img src="critter.gif" width="720" alt="An evolving pixel-art git-critter" />
   <br />
-  <sub>Drawn by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+  <sub>Made with <a href="https://github.com/aryamantepal/git-critters">git-critters</a></sub>
 </p>
+<!-- git-critters:end -->
 
 I am a senior in Computer Science and Applied Mathematics at UMass Amherst, graduating May 2027.
 
